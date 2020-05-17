@@ -24,4 +24,6 @@ Los archivos tienen un nombre y una extensión, en el caso de un archivo de text
 
 > Todo este material va a ser subido a Github
 
+[Video 1](https://youtu.be/6OXw_mms5B8)
+
 [Día 1](dia1.md)

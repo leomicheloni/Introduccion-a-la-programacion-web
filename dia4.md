@@ -61,32 +61,28 @@ En Javascript es posible sumar peras con manzanas, o mejor dicho, números con s
 Ejemplos
 
 ``` javascript
+let number1  = 2;
+let number2 = 1;
+let result = number1 + number2;
+console.log(result);
+```
+
+``` javascript
+let message  = "hoy es día ";
+let day = "martes";
+let text = message + day;
+console.log(text);
+```
+
+``` javascript
 let message  = "hoy es día ";
 let day = 1;
 let text = message + day;
 console.log(text);
 ```
 
-``` javascript
-```
-
-``` javascript
-```
-
-``` javascript
-```
-
-``` javascript
-```
-
 ### Asignaciones
 Se pueden asignar variables a otras, o sumar variables con literales (valores escritos directamente)
 
-### Mostrar el resultado
 
-
-### Funciones
-Es un conjunto de instrucciones agrupadas que podemos invocar por nombre, por ejemplo, hacemos una multiplicación, luego una suma, etc. y necesitamos repetir esto en varios lugares, en vez de escribirlo varias veces creamos una función con todos estos pasos dentro y la invocamos en donde lo necesitemos por su nombre.
-
-Utiliza paréntesis para llamarla (invocarla) en caso de necesitar algún datos extra (parámetros) los mismos se pasarán entre estos paréntesis.
 

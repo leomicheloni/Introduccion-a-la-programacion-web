@@ -27,7 +27,7 @@ Una variable es una forma de decir al navegador que recuerde un valor para luego
 Por ejemplo, queremos que recuerde mi nombre para usarlo luego, y se lo decimos.
 
 ``` javascript
-let nombre = "Leonardo"
+let nombre = "Leonardo";
 ```
 
 Como vemos arriba, la forma de hacerlo es utilizar la instrucción *let* luego el nombre que queremos que tenga la variable (un nombre para hacer referencia a la variable luego, es recomendable que tenga sentido con el valor que guarda) el digno *=* y luego el valor, en este caso entre comillas porque es un texto.
@@ -84,5 +84,6 @@ console.log(text);
 ### Asignaciones
 Se pueden asignar variables a otras, o sumar variables con literales (valores escritos directamente)
 
+[Ejemplo](code/index5.html)
 
 
